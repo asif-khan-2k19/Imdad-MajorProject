@@ -1,5 +1,5 @@
-<div style="display:flex; flex-direction:column; text-align:center; align-items:center;">
-<img style="height:300px;" src="https://i.ibb.co/hJsLXvGQ/imdad-feature-image.png" alt="imdad-feature-image" >
+<div align="center">
+  <img style="height:300px;" src="https://i.ibb.co/hJsLXvGQ/imdad-feature-image.png" alt="imdad-feature-image" >
 
 # Imdad – Bridging Hunger with Humanity
 </div>
